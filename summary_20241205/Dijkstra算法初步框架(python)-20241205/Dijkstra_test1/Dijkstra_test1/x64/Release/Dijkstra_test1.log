@@ -1,0 +1,8 @@
+﻿  Dijkstra_test1.cpp
+D:\chengxu\Dijkstra\Dijkstra_test1\Dijkstra_test1\Dijkstra_test1\Dijkstra_test1.cpp(21,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  405 of 415 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Dijkstra_test1.vcxproj -> D:\chengxu\Dijkstra\Dijkstra_test1\Dijkstra_test1\x64\Release\Dijkstra_test1.exe

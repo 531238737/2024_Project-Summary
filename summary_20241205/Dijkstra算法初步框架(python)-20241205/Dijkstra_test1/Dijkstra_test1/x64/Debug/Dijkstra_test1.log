@@ -1,0 +1,8 @@
+﻿  Dijkstra_test1.cpp
+D:\vcpkg\installed\x64-windows\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vcpkg\installed\x64-windows\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vcpkg\installed\x64-windows\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\chengxu\Dijkstra\Dijkstra_test1\Dijkstra_test1\Dijkstra_test1\Dijkstra_test1.cpp(23,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\chengxu\Dijkstra\Dijkstra_test1\Dijkstra_test1\Dijkstra_test1\Dijkstra_test1.cpp(105,51): warning C4267: “参数”: 从“size_t”转换到“xlnt::row_t”，可能丢失数据
+D:\chengxu\Dijkstra\Dijkstra_test1\Dijkstra_test1\Dijkstra_test1\Dijkstra_test1.cpp(105,44): warning C4267: “参数”: 从“size_t”转换到“xlnt::column_t::index_t”，可能丢失数据
+  Dijkstra_test1.vcxproj -> D:\chengxu\Dijkstra\Dijkstra_test1\Dijkstra_test1\x64\Debug\Dijkstra_test1.exe

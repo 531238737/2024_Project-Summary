@@ -1,0 +1,11 @@
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\bin\x64\Release\PEG_test1.exe.config
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\bin\x64\Release\PEG_test1.exe
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\bin\x64\Release\ACS.SPiiPlusNET.dll
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\obj\x64\Release\PEG_test1.csproj.AssemblyReference.cache
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\obj\x64\Release\PEG_test1.csproj.SuggestedBindingRedirects.cache
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\obj\x64\Release\PEG_test1.Form1.resources
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\obj\x64\Release\PEG_test1.Properties.Resources.resources
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\obj\x64\Release\PEG_test1.csproj.GenerateResource.cache
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\obj\x64\Release\PEG_test1.csproj.CoreCompileInputs.cache
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\obj\x64\Release\PEG_test1.csproj.CopyComplete
+D:\chengxu\PEG_test\PEG_test1\PEG_test1\obj\x64\Release\PEG_test1.exe
